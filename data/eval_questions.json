@@ -1,0 +1,18 @@
+[
+  {"q": "How long must the fire watch stay after welding finishes?", "expected_source": "hot_work.md", "expected_section": "After finishing"},
+  {"q": "Who can remove my lock during lockout tagout?", "expected_source": "lockout_tagout.md", "expected_section": "Removing locks"},
+  {"q": "How soon must a near miss be entered in the reporting system?", "expected_source": "incident_reporting.md", "expected_section": "Timelines"},
+  {"q": "At what height do I need a fall arrest harness?", "expected_source": "ppe_policy.md", "expected_section": "Additional PPE"},
+  {"q": "How long is a permit to work valid?", "expected_source": "permit_to_work.md", "expected_section": "Issuing and closing a permit"},
+  {"q": "When do I need hearing protection?", "expected_source": "ppe_policy.md", "expected_section": "Additional PPE"},
+  {"q": "What distance must combustibles be cleared before grinding sparks?", "expected_source": "hot_work.md", "expected_section": "Before starting"},
+  {"q": "How long should someone keep watching for smouldering after cutting metal?", "expected_source": "hot_work.md", "expected_section": "After finishing"},
+  {"q": "What do I do if the person who locked the machine has gone home?", "expected_source": "lockout_tagout.md", "expected_section": "Removing locks"},
+  {"q": "Whom do I tell if someone is badly hurt, and how fast?", "expected_source": "incident_reporting.md", "expected_section": "Timelines"},
+  {"q": "What should happen when an alarm goes off during a job?", "expected_source": "permit_to_work.md", "expected_section": "Suspending work"},
+  {"q": "Do I have to wear anything on my head and feet everywhere on site?", "expected_source": "ppe_policy.md", "expected_section": "Minimum PPE on site"},
+  {"q": "Which jobs need a permit and which do not?", "expected_source": "permit_to_work.md", "expected_section": "When a permit is required"},
+  {"q": "How do I confirm a machine has no stored energy before I start work?", "expected_source": "lockout_tagout.md", "expected_section": "Steps"},
+  {"q": "When must the investigation of an incident begin?", "expected_source": "incident_reporting.md", "expected_section": "Investigation"},
+  {"q": "What should I do with worn or out-of-date safety gear?", "expected_source": "ppe_policy.md", "expected_section": "Inspection"}
+]
